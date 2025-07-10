@@ -33,14 +33,20 @@ This pipeline simulates a lightweight real-time tool that could assist in:
 | Matplotlib | Visualization |
 | Google Colab | Development platform |
 
----
+--- 
 
 ## ⚙️ How It Works
+
 Load grayscale IR satellite image
+
 Apply temperature threshold (< 235 K) to isolate cold cloud tops
+
 Perform binary masking and contour detection
+
 Filter small/noisy clusters based on area
+
 Draw bounding boxes over valid clusters
+
 Compute metrics: cluster count, average size, brightness temp, runtime 
 
 ---
@@ -58,8 +64,8 @@ Compute metrics: cluster count, average size, brightness temp, runtime
 
 ## 🧪 Getting Started (Run in Colab)
 To run this project:
-Open the notebook: TCC Detection on Colab
-Upload sample IR data
+Open the notebook: [Colab file link](https://colab.research.google.com/drive/1h7SE6Yln6xec1Y91hsqlAFhDT1uti20Z?usp=sharing)
+Upload sample IR data 
 Run all cells and visualize bounding boxes
 No installation required if run on Colab. 
 
@@ -68,4 +74,6 @@ No installation required if run on Colab.
 ## 🙋‍♀️ Author
 Sanskriti Kumari
 Data Science & AI | Meteorological AI Systems | OpenCV + Satellite Imagery
+[Connect with me on LinkedIn](https://www.linkedin.com/in/sanskriti-kumari/)
+
 
