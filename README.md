@@ -96,6 +96,8 @@ Feel free to use, adapt, or extend this project for research or academic purpose
 ---
 
 👩‍💻 Author
+
 Sanskriti Kumari
+
 [LinkedIn](https://www.linkedin.com/in/sanskriti-kumari/)
 
