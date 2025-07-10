@@ -64,9 +64,13 @@ Compute metrics: cluster count, average size, brightness temp, runtime
 
 ## 🧪 Getting Started (Run in Colab)
 To run this project:
+
 Open the notebook: [Colab file link](https://colab.research.google.com/drive/1h7SE6Yln6xec1Y91hsqlAFhDT1uti20Z?usp=sharing)
+
 Upload sample IR data 
+
 Run all cells and visualize bounding boxes
+
 No installation required if run on Colab. 
 
 ---
