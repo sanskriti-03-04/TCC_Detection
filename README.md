@@ -73,7 +73,9 @@ No installation required if run on Colab.
 
 ## 🙋‍♀️ Author
 Sanskriti Kumari
+
 Data Science & AI | Meteorological AI Systems | OpenCV + Satellite Imagery
+
 [Connect with me on LinkedIn](https://www.linkedin.com/in/sanskriti-kumari/)
 
 
