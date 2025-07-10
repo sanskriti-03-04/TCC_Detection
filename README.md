@@ -45,13 +45,10 @@ Compute metrics: cluster count, average size, brightness temp, runtime
 
 ---
 
-##🚀 Future Improvements
+## 🚀 Future Improvements
 🧠 Add ConvNet to classify convective vs non-convective clouds
-
 🌍 Integrate elevation or flood risk maps
-
 ⏱️ Perform temporal analysis to track cluster movement over time
-
 ☁️ Build a web dashboard or REST API for real-time use 
 
 ---
