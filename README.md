@@ -82,4 +82,33 @@ Data Science & AI | Meteorological AI Systems | OpenCV + Satellite Imagery
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/sanskriti-kumari/)
 
+---
+
+#### 🚀 Future Work
+
+This project serves as a foundational system for satellite-based tropical cloud cluster detection. The following enhancements can significantly improve accuracy, scalability, and real-world applicability:
+
+- **🧠 Integrate Deep Learning Models**  
+  Replace thresholding with CNN-based segmentation (e.g., U-Net) to improve cluster classification and reduce false positives in cloudy but non-convective regions.
+
+- **⏱️ Temporal Cloud Tracking**  
+  Extend the pipeline to process time-series satellite frames to track the evolution, movement, and merging of cloud clusters.
+
+- **🌊 Flood Risk & Geographic Overlay**  
+  Incorporate flood-prone zone layers or digital elevation models (DEM) to assess the geographical risk associated with convective cloud formations.
+
+- **🌐 Real-Time Deployment**  
+  Package the system as a REST API or lightweight dashboard to allow real-time satellite stream ingestion and monitoring.
+
+- **📡 Cross-Satellite Support**  
+  Generalize the system to support other geostationary satellites (e.g., Himawari-8, GOES) for broader regional analysis.
+
+- **📊 Cluster Severity Scoring**  
+  Design a scoring model for each cluster based on area, brightness temperature, and growth rate to help rank their severity or storm potential.
+
+- **🛰️ Multi-Channel Fusion**  
+  Fuse visible, water vapor, and IR channels for richer, more accurate cloud characterization.
+
+These future directions aim to take the system from a rule-based prototype to a fully scalable meteorological analytics tool.
+
 
